@@ -9,14 +9,21 @@
 
 .App-header {
   background-color: #222;
-  height: 150px;
-  padding: 20px;
+  height: 200px;
+  padding: 25px;
   color: white;
 }
 
-.App-intro {
-  font-size: large;
+.App-body {
+  font-size: 25px;
+  padding: 25px 0;
 }
+
+.Clock-days, .Clock-hours, .Clock-minutes, .Clock-seconds {
+  display: inline;
+  margin: 10px;
+}
+
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
