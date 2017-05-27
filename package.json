@@ -1,7 +1,7 @@
 {
   "name": "countdown",
   "author": "priom",
-  "homepage": "http://priom.github.io/react-countdown",
+  "homepage": "http://priom.github.io/reactcountdown",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
